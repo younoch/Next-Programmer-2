@@ -122,6 +122,9 @@ footer p {
         min-width: 200px;
         margin-left: 1em;
     }
+    .widget-body{
+        font-size: .9em;
+    }
 }
 
 nav ul {
